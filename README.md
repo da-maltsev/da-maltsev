@@ -2,12 +2,8 @@
 - 👀 I’m interested in Backend Golang and Python, Microservices and Web 
 - ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
   below.
-  
-- I enjoy codebattles and solving things on leetcode
 
-[My Codewars](https://www.codewars.com/users/da-maltsev) Badge: 
-
-![image](https://www.codewars.com/users/da-maltsev/badges/large)
+[My Codewars](https://www.codewars.com/users/da-maltsev) ![image](https://www.codewars.com/users/da-maltsev/badges/large)
 
 
 
