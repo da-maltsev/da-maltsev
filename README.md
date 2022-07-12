@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @da-maltsev
+- 👋 Hi, I’m @da-maltsev from Ekaterinburg. Now I'm Automation QA Engineer at [flagstudio](https://flagstudio.ru/)
 - 👀 I’m interested in Backend Golang and Python, Microservices and Web 
 - I enjoy codebattles and solving things on leetcode
 
