@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @da-maltsev from Ekaterinburg. Now I'm Automation QA Engineer at [flagstudio](https://flagstudio.ru/)
+- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. Now I'm Automation QA Engineer at [flagstudio](https://flagstudio.ru/)
 - 👀 I’m interested in Backend Golang and Python, Microservices and Web 
 - ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
   below.
