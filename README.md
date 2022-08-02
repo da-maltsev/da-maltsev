@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. Now I'm Automation QA Engineer at [flagstudio](https://flagstudio.ru/)
-- 👀 I’m interested in Backend Golang and Python, Microservices and Web. [Here](https://github.com/da-maltsev/Bio) you can find my CV and Certificates.
+- 👀 I’m interested in Backend Golang, Python3, Microservices and Web. [Here](https://github.com/da-maltsev/Bio) you can find my CV and Certificates.
 - ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
   below.
 
@@ -10,7 +10,7 @@
 
 ## 🛠 My fancy badge area
 
-[![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)[![python](https://img.shields.io/badge/python%20-%23255074.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com) [![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![github](https://img.shields.io/badge/github%20-%23000408.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/lulzseq) [![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html) [![css](https://img.shields.io/badge/CSS%20-%23264DE4.svg?&style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)[![python](https://img.shields.io/badge/python%20-%23255074.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com) [![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![github](https://img.shields.io/badge/github%20-%23000408.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/lulzseq) [![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🤝 Connect with me
 
