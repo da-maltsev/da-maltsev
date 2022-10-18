@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. Now I'm QA Engineer at [flagstudio](https://flagstudio.ru/)
+- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. Now I'm Software Developer at [flagstudio](https://flagstudio.ru/)
 - 👀 I’m interested in Backend web development in Php, Golang, Python. [Here](https://github.com/da-maltsev/Bio) you can find my Certificates.
 - ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
   below.
