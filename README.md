@@ -3,7 +3,7 @@
 - ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
   below.
 
-[![image](https://www.codewars.com/users/da-maltsev/badges/large)](https://www.codewars.com/users/da-maltsev) 
+<!--- [![image](https://www.codewars.com/users/da-maltsev/badges/large)](https://www.codewars.com/users/da-maltsev) --->
 
 
 
