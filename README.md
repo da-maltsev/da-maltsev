@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. 
-- 👀 I’m interested in Backend web development in Python (and a bit of PHP and Go).
+- 👀 I’m interested in Backend web development in Python.
 - ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
   below.
 
