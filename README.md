@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. 
 - 👀 I’m interested in Backend web development in Python.
-- ✉️ You can shoot me an email at [danil.zlatoust9999@gmail.com](mailto:danil.zlatoust9999@gmail.com) or social networks 
+- ✉️ You can shoot me an email at [da-maltsev@inbox.ru](mailto:da-maltsev@inbox.ru) or social networks 
   below.
 
 <!--- [![image](https://www.codewars.com/users/da-maltsev/badges/large)](https://www.codewars.com/users/da-maltsev) --->
@@ -14,7 +14,7 @@
 
 ## 🤝 Connect with me
 
-[![danil.zlatoust9999@gmail.com](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:danil.zlatoust9999@gmail.com) [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/da_maltsev)
+[![da-maltsev@inbox.ru](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:da-maltsev@inbox.ru) [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/da_maltsev)
 <!---
 da-maltsev/da-maltsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
