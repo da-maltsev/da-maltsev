@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg. 
+- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg, Passion Driven Deveoper.
 - 👀 I’m interested in Backend web development in Python.
-- ✉️ You can shoot me an email at [da-maltsev@inbox.ru](mailto:da-maltsev@inbox.ru) or social networks 
-  below.
+- ✉️ You can shoot me an email at [da-maltsev@inbox.ru](mailto:da-maltsev@inbox.ru) or telegram.
 
 <!--- [![image](https://www.codewars.com/users/da-maltsev/badges/large)](https://www.codewars.com/users/da-maltsev) --->
 
