@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg, Passion Driven Deveoper.
+- 👋 Hi, I’m Daniil Maltsev from Ekaterinburg, Passion Driven Developer.
 - 👀 I’m interested in Backend web development in Python.
 - ✉️ You can shoot me an email at [da-maltsev@inbox.ru](mailto:da-maltsev@inbox.ru) or telegram.
 
